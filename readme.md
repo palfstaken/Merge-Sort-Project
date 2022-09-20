@@ -23,3 +23,6 @@
 
 - ##### Big-O gösterimini yazınız.
 - ##### O(n*(logn)) = O(6*(log6)) 
+
+- [-->Patika Profilim](https://app.patika.dev/palf)
+- [patika.dev](https://www.patika.dev/)
