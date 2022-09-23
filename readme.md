@@ -1,7 +1,7 @@
 # Merge-Sort-Project
 
 - **[16,21,11,8,12,22]** -> Merge Sort
-- ##### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+- ##### Write the stages of the above array according to the sort type.
 
 
 |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -21,8 +21,8 @@
 |  |  |  |8 |11|12|16|21|22|  |  |  | 
 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-- ##### Big-O gösterimini yazınız.
+- ##### Write the Big-O-Notation.
 - ##### O(n*(logn)) = O(6*(log6)) 
 
-- [-->Patika Profilim](https://app.patika.dev/palf)
+- [-->My Patika profile](https://app.patika.dev/palf)
 - [patika.dev](https://www.patika.dev/)
